@@ -2,8 +2,8 @@
 
 Webstory visualisasi data tentang pembangunan manusia, kondisi ekonomi, dan kualitas lingkungan hidup di 514 kabupaten/kota Indonesia tahun 2024. Proyek UAS Visualisasi Data dan Informasi 2026.
 
-Laman publik: (isi link GitHub Pages)
-Repositori: (isi link repo)
+Laman publik: ttps://amandaatika.github.io/UASVisdatAmanda/ 
+Repositori: https://github.com/AmandaAtika/UASVisdatAmanda  
 
 ## Topik Visualisasi
 
